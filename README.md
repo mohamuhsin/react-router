@@ -19,3 +19,6 @@
 
 ## 6. Layouts and Nested Routes:
 > Added a Root layout that Wraps all other routes so that the MainNavigation can be shown in every page.
+
+## 7. Showing ErrorPages with ErrorElement Property:
+>
