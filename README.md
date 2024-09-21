@@ -10,4 +10,4 @@
 >
 
 ## Providing our defined routes:
-> To provide the defined routes to be rendered we import another function called ```RouterProvider``` that takes ```router``` as a special prop and we use it where we want to render or load our routes, i.e ```<RouterProvider router={router}``` where the router value is the const storing the ```createBrowserRouter```.
+> To provide the defined routes to be rendered we import another function called ```RouterProvider``` that takes ```router``` as a special prop and we use it where we want to render or load our routes, i.e in App.jsx inside the return method ```<RouterProvider router={router}``` where the router value is the const storing the ```createBrowserRouter```.
