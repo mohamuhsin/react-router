@@ -15,4 +15,4 @@
 > We added another route by creating a new page, add another object element in our array, and follow the previous step with appropriate path and element to render"
 
 ## 5. Navigating Btn Pages with Links:
-> We don't navigate btn pages in react using ```<a href=''>``` because this trys to send request to the server and will cause us some perfomance issues, to naviagte we import Links from react-router-dom, under the hood, it does render an anchor element but it basically listens for clicks on the element and instead of ```href``` it uses ```to```.
+> We don't navigate btn pages in react using ```<a href=''>``` because this trys to send request to the server and will cause us some perfomance issues, to naviagte we import Links from react-router-dom, under the hood, it does render an anchor element but it basically listens for clicks on the element and instead of ```href=''``` it uses ```to=''```.
