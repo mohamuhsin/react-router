@@ -1,5 +1,5 @@
 # React Router
-> Understanding the basics of react router.
+> Understanding the basics of react router dom.
 
 ## 1. Project Setup:
 > Install react router package by running ```npm install react-router-dom```.
