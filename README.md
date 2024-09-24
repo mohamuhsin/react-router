@@ -28,3 +28,9 @@
 
 ## 9. Navigating programmatically:
 >
+
+## 10. Defining and using dynamic routes:
+>
+
+## 11. Adding Links for dynamic routes:
+>
