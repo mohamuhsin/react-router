@@ -34,3 +34,6 @@
 
 ## 11. Adding Links for dynamic routes:
 >
+
+## 12. Working with index routes and learning about relative and absolute path:
+>
